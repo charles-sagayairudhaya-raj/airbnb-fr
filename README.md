@@ -9,3 +9,4 @@ Currently, two official plugins are available:
 # homestay-front-end
 # airbnb-client
 # airbnb-client
+# airbnb-fr
